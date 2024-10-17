@@ -40,6 +40,10 @@ useHead({
 
 <template>
   <div class="w-full flex flex-col">
+    <a href="https://github.com/hacka-network/hackagu" target="_blank" class="github-icon">
+      <img alt="Edit this on GitHub" width="30" height="30" src="/github.svg">
+    </a>
+
     <div class="p-8 mt-20 max-w-3xl mx-auto">
       <h1 class="text-center text-primary">Hackagu 💻🤓🏝️</h1>
       <h2 class="text-center text-primary text-base mt-8 mb-16">EST 2019. Part of <a href="https://hacka.network/?utm_source=hackagu" target="_blank" class="underline text-[#3872EC] hover:text-[#3872EC]/60">HACKA* NETWORK</a></h2>

@@ -46,4 +46,26 @@
   a {
     @apply text-primary hover:text-primary/60;
   }
+
+  .github-icon {
+    box-sizing: border-box;
+    display: block;
+    max-width: 100%;
+    position: fixed;
+    right: 1rem;
+    top: 1rem;
+    color: transparent;
+    z-index: 2;
+    transition: opacity 0.3s ease;
+  }
+
+  .github-icon:hover {
+    opacity: 0.5;
+  }
+
+  @media (max-width: 768px) {
+    .github-icon {
+      display: none;
+    }
+  }
 }
