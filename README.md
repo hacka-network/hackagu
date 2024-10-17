@@ -1,6 +1,7 @@
-# Nuxt 3 Minimal Starter
+# Hackagu
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Hello there. This is the Hackagu website. If you want to contribute, please fork the repo and send a PR.
+Built with Vue 3 / Nuxt 3 / Bun / Tailwind CSS
 
 ## Setup
 
