@@ -61,7 +61,7 @@ useHead({
       </div>
     </div>
     
-    <div class="flex flex-col h-[600px]">
+    <div class="flex flex-col h-[800px]">
       <iframe class="flex-grow w-full" src="https://tally.so/r/wkZVbj" frameborder="0" marginheight="0" marginwidth="0" title="Hackagu Registration Form"></iframe>
     </div>
   </div>
